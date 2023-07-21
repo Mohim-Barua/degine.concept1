@@ -74,4 +74,36 @@ align-items: center;}
  text-align: center;
  padding: 30px;
 
+font-weight: bolder;
+}
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px grey;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.icon{
+    width: 100px;
+
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+    padding: 10px;
+}
+.box-title{
+    padding: 10px;
+
+}
+.box-des{
+    padding: 5px;
+
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    background-color:  gray;
 }
