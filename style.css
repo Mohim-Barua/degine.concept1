@@ -62,3 +62,16 @@ align-items: center;}
      cursor: pointer;  
      background-color: black;  
 }
+
+.about-container{
+    display: flex;
+    flex-direction: row-reverse;
+   padding: 10px ;
+    align-items: center;
+    justify-content: space-between;
+}
+.aboutus{
+ text-align: center;
+ padding: 30px;
+
+}
